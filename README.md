@@ -1,5 +1,5 @@
 # 📊 Superstore Sales Performance Dashboard
-![Tampilan Dashboard](dasboard-preview.png)
+![Tampilan Dashboard](<dashboard-preview.png>)
 
 ## 📝 Project Overview
 This project is a fully interactive, pixel-perfect Excel dashboard designed to analyze and visualize the sales performance of a retail superstore. This dashboard was developed as a capstone project during my independent study program at **Vinix**, aimed at demonstrating end-to-end data processing, business intelligence reporting, and macro automation.
