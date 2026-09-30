@@ -1,4 +1,10 @@
-# 📊 Superstore Sales Performance Dashboard
+﻿# 📊 Superstore Sales Performance Dashboard
+
+[![Try in Excel Online](https://img.shields.io/badge/Live_Demo-Try_in_Excel_Online-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://1drv.ms/x/c/f75bc79e201ded9e/IQBjJvDwUsPNTaWWrIdQCnwxAfGIKIeIkVzsiPLwlZWEzdQ?e=zKg4ZH)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Maulana_Fatih-0A1B38?style=for-the-badge)](https://maulfath.github.io/Portfolio/)
+
+> 🚀 **[Coba Dashboard Interaktif Langsung di Excel Online (Web Browser)](https://1drv.ms/x/c/f75bc79e201ded9e/IQBjJvDwUsPNTaWWrIdQCnwxAfGIKIeIkVzsiPLwlZWEzdQ?e=zKg4ZH)** — Anda bisa memfilter data penjualan berdasarkan bulan, tahun, wilayah, kategori, dan segmen pelanggan secara real-time langsung melalui web browser!
+
 ![Tampilan Dashboard](<dashboard-preview.png>)
 
 ## 📝 Project Overview
@@ -29,11 +35,19 @@ The dashboard features four primary metrics at the top to give executives a quic
   * *Top 5 Customers* to identify high-value clients.
 
 ## 💻 How to Use This Dashboard
-1. Download the `Superstore_Sales_Dashboard.xlsm` file from this repository.
-2. Open the file in Microsoft Excel.
-3. **Important:** Click **"Enable Editing"** and **"Enable Content"** (Macros) at the top warning bar to ensure the *Reset Filters* button works properly.
-4. Use the Slicers on the left navigation panel to interact with the data. Click the "Reset Filters" button to clear all selections.
+### Opsi 1: Coba Langsung di Web Browser (Excel Online)
+Klik tautan interaktif berikut: **[Live Excel Online Demo](https://1drv.ms/x/c/f75bc79e201ded9e/IQBjJvDwUsPNTaWWrIdQCnwxAfGIKIeIkVzsiPLwlZWEzdQ?e=zKg4ZH)** untuk mencoba seluruh slicer filter secara langsung.
+
+### Opsi 2: Download & Buka di Microsoft Excel Desktop
+1. Download file `Superstore_Sales_Dashboard.xlsm` dari repository ini.
+2. Buka file di Microsoft Excel desktop.
+3. **Penting:** Klik **"Enable Editing"** dan **"Enable Content"** (Macros) pada bar kuning notifikasi keamanan di bagian atas agar tombol *Reset Filters* (VBA) berfungsi optimal.
+4. Gunakan panel Slicer di sebelah kiri untuk eksplorasi data.
+
+---
 
 ## 👨‍💻 Author
 **Maulana Fatih Abiyyin**
 * Data Analyst | Mathematics Graduate from Universitas Diponegoro
+* 🌐 [Portfolio](https://maulfath.github.io/Portfolio/)
+* 💻 [GitHub Profile](https://github.com/maulfath)
